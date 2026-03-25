@@ -1,4 +1,4 @@
-# Madison Renz Portfolio 2026
+# Madison Renz's Portfolio 2026
 Hi, I'm Madison Renz, a Business Information Technology student at the University of Tampa with a 3.8 GPA and a strong passion for bridging the gap between technology and real-world business impact.
 
 I am CompTIA Security+ certified, an incoming Technology Risk Intern at Ernst & Young (EY Minneapolis, Summer 2026), and currently studying abroad at Florence University of the Arts in Italy. My work focuses on IT research, data visualization in Tableau, business process modeling, and cybersecurity, with each project built at the intersection of technical precision and strategic business thinking.
